@@ -1,0 +1,21 @@
+ctrl + k, m 언어 변경
+ctrl + / 주석처리
+shift + 1 + tap 기본 html코드
+
+
+
+C:\Users\fhwkf\OneDrive\바탕 화면\django1\my_venv\Scripts
+에서 주소창에 cmd - activate
+장고 가상환경
+
+
+
+
+닷홈, 파일질라
+
+
+
+
+
+
+
